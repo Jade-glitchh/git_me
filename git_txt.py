@@ -1,5 +1,5 @@
 name = input()
-if name == "Wisdom":
+if name == "Jade":
     print("Hello Jade")
 else:
     print("Invalid")
